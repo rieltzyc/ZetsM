@@ -18,19 +18,19 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281252848955']
+global.owner = ['6282146218274']
 global.premium = ['0']
-global.botname = 'Zets-MD'
-global.packname = '© Zets-MD'
+global.botname = 'Rielbotz-MD 🌱'
+global.packname = '© Rielbotz-MD 🌱'
 global.author = '@naando.jpeg\n@alya.xzy'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
+    admin: 'Fitur Khusus Admin Group Tod!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    owner: 'Fitur Khusus Owner Bot Tod:v',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
